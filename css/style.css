@@ -58,7 +58,7 @@ img {
 
 .button-text {
   vertical-align: middle;
-  margin-right: 10px;
+  margin-left: 10px;
 }
 
 .hero-title {
@@ -204,7 +204,7 @@ img {
 }
 
 .subscribe-form {
-  max-width: 460px;
+  max-width: 480px;
   margin: auto;
   text-align: center;
 }
